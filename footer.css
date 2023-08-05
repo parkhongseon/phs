@@ -1,0 +1,40 @@
+/*footer*/
+.under__footer {
+    background-color: #CDDEFF;
+    color: white;
+    height: 200px;
+
+}
+
+.title {
+    padding-top: 10px;
+    font-family: 'Merriweather', serif;   
+}
+
+.subtitle {
+    font-family: 'Merriweather', serif;
+}
+
+.title,
+.subtitle {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: -10px;
+}
+
+.flex_container {
+    display: flex;
+    justify-content: center;
+    margin: auto;
+    width: 90%;
+}
+
+.address,
+.phone,
+.mail {
+    text-align: center;
+    width: 30%;
+    margin-top: 20px;
+    font-family: 'Merriweather', serif;
+}
