@@ -1,0 +1,82 @@
+body{
+    background-color: #E8F0FF;
+    margin-top: 100px; /* 위쪽 여백 */
+}
+.logo-picture{ /* 로고 변경 */
+    text-align: center; /* 텍스트 정렬 가운데로 설정 */
+    width : 100%;
+}
+
+.signup-form{
+    display: grid;  /* 그리드 레이아웃 사용하여 자식 요소 배치 */
+    grid-template-columns: 1fr 1fr; /* 그리드 컬럼을 1:1 비율로 설정 */
+    margin-top: 125px; /* 위쪽 여백 */
+}
+
+.picture2{ /* 오른쪽 사진 */
+    text-align: center; 
+    height: 570px;
+    
+    
+}
+
+.left-form {
+    position: absolute; /* 절대 위치로 설정 */
+    right: 50%;
+}
+
+.left-form input{ /* 입력칸 */
+    height: 35px;
+    width: 350px;
+}
+
+.right-form {
+    position: absolute;
+    left: 52%;
+    height: 100%
+}
+    
+.left-form input{
+    height: 50px;
+    border: none; /* 테두리 없음으로 설정 */
+}
+
+.left-form label{
+    font-weight: bolder;
+    font-size: 18px;
+}
+button {
+    padding: 10px 20px;
+    font-size: 18px;
+    background-color: #4c7dFB;
+    color: #fff;
+    border-radius: 4px;
+    cursor: pointer;  /* 커서 모양을 포인터로 설정 (클릭 가능한 요소) */
+    border: none;
+    width: 350px; 
+    height: 40px; 
+    font-weight: bolder; /* 글꼴 굵기를 두껍게 설정 */
+  }
+  
+  button:hover {
+    background-color: #426f8d; /* 마우스 호버 시 색상 변경 */
+  }
+
+login.html{
+    text-align: center;
+}
+.join form{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: center;
+    background-color: #4a5160;
+    height: 800px;
+    width: 550px;
+    padding-left:130px;
+}
+
+
+
+
+  

@@ -1,0 +1,55 @@
+.under__footer {
+    background-color: #92B0FF;
+    color: white;
+}
+hr{
+   background-color: white;
+   height:1px;
+   border:0;
+   opacity: 1;
+}
+
+
+/*.sns__logo{
+    width: 50px; 
+    height: 50px;
+    
+    object-fit: none;
+    display: inline;
+    border-radius:100%; 
+    overflow: hidden;
+} */
+
+
+#kakao{
+    margin-left: 90%;
+    max-width: 50px;
+    max-height: 50px;
+    display: inline;
+    object-fit: center;
+    width: auto; 
+    height: auto;
+    border-radius: 50%;
+    
+}
+
+#blog{
+    max-width: 50px;
+    max-height: 50px;
+    display: inline;
+    object-fit: center;
+    width: auto; 
+    height: auto;
+    border-radius: 50%;
+   
+}
+
+/*#isnta{
+   width: 10px;
+    height: 10px;
+    display: inline;
+    object-fit: center;
+    width: auto; 
+    height: auto;
+    border-radius: 50%;
+}*/

@@ -1,0 +1,43 @@
+.chat{
+    display: flex;
+}
+.chat__info{
+    display: block;
+    margin-left: 20px;
+    padding-top: 20px; 
+    border-bottom:1px solid black;
+    width: 80%;
+    padding:20px;
+}
+.chat__list__info{
+    display: block;
+    margin-left: 20px;
+    padding-top: 20px; 
+    border-bottom:1px solid black;
+    width: 80%;
+    padding:20px;
+}
+#logo{
+    display: block;
+    width: 100x;
+    height:50px;
+    margin:auto;   
+}
+.name_1{
+    font-size: 18px;
+    font-weight: bold;
+
+}
+.hi{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-right: 100px;
+    padding-top: 10px;
+    width: 300px;
+    margin-bottom:20px;
+}
+
+.text_1{
+    font-size: 15px;
+}

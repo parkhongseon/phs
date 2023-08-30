@@ -2,7 +2,7 @@
 .under__footer {
     background-color: #CDDEFF;
     color: white;
-    height: 200px;
+    height: 170px;
 
 }
 
@@ -35,6 +35,7 @@
 .mail {
     text-align: center;
     width: 30%;
+    
     margin-top: 20px;
     font-family: 'Merriweather', serif;
 }

@@ -1,0 +1,39 @@
+.logo-picture{
+    display: block;
+    margin: auto;
+    width:200px;
+    height: 130px;
+}
+
+.party{
+    text-align: center;
+    padding: 100px 0;
+    font-size: 30px;
+    font-weight: bolder;
+}
+
+
+.myparty__board{
+    margin: 20px;
+    padding: 30px;
+    border: 4px solid #92B0FF;
+    border-radius: 25px;
+    height: 150px;
+    width: 150px;
+    font-size: 18px;
+    font-weight: bolder;
+   
+
+    
+
+    
+}.round{
+    background-color: #92B0FF;
+    border-radius: 25px;
+    width:55px;
+    height:20px;
+    
+    font-size: 13px;
+    font-weight: bolder;
+    text-align: center;
+}
